@@ -14,3 +14,5 @@ You can find the list of all the mods on their page here : https://github.com/db
 **___I am still working on a way to edit everything outside of Discord Bot Maker___**
 
 For the moment, i suggest that you download all of the file and use Discord Bot maker to view the whole project. You will then be able to see all of the variables and modify or add new variables
+
+Modify the "/data/settings.json" Instructions are inside of the file
