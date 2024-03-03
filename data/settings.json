@@ -1,1 +1,7 @@
-{"token":"","client":"","tag":"!","case":"false","separator":"\\s+","commandsOrder":["ieUeF","Craqq"],"eventsOrder":["REKoE","pscOt"],"modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true],"@discordjs/voice":["",false],"@discordjs/opus":["",false],"ffmpeg-static":["",false],"tweetnacl":["",false],"youtube-dl-exec":["",false],"ytdl-core":["",false],"chalk":["",true]},"ownerId":"","slashType":"all","Bot Intents":{"customData":{"Bot Intents":{"intents":-1}}},"ignoreCommandScopeErrors":false}
+/*
+For the bot to work, you need to modify the token to add the token of your bot. You can find it here : https://discord.com/developers/applications
+The client need to also be added. Again from the url earlier, just copy the client of your bot and past it under.
+The bot owner need to be added also. You can find it by doing this : https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID
+Add the ider where needed. (Look at the right of the file)
+*/
+{"token":"ENTER BOT TOKEN HERE","client":"ENTER BOT CLIENT HERE","tag":"!","case":"false","separator":"\\s+","commandsOrder":["ieUeF","Craqq"],"eventsOrder":["REKoE","pscOt"],"modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true],"@discordjs/voice":["",false],"@discordjs/opus":["",false],"ffmpeg-static":["",false],"tweetnacl":["",false],"youtube-dl-exec":["",false],"ytdl-core":["",false],"chalk":["",true]},"ownerId":"ENTER YOUR OWNER ID HERE","slashType":"all","Bot Intents":{"customData":{"Bot Intents":{"intents":-1}}},"ignoreCommandScopeErrors":false}
